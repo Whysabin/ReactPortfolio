@@ -1,6 +1,6 @@
 import React from 'react'
 import Card from '../Card/Card'
-import "./Projects.css"
+import "./projects.css"
 import sable from "../../assets/about.png"
 import Tic from "../../assets/tic-tac-toe.png"
 import Virtual from "../../assets/sabinwin.png"
