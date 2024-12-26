@@ -2,7 +2,7 @@ import React from 'react'
 import "./About.css"
 import Card from '../Card/Card'
 import html from "../../assets/html.png"
-import reeact from "../../assets/reeact.png"
+import reeact from "../../assets/Reeact.png"
 import video from "../../assets/video.png"
 import { useGSAP } from '@gsap/react'
 import gsap from 'gsap/all'
